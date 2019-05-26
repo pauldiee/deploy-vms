@@ -1,0 +1,9 @@
+#-- TODO deploy-VMs
+1. validatie CSV bestand op datastores e.d.
+2. in HTML tijd van schrijven HTML data weergeven
+3. controleren of tasks voltooid zijn, ipv filteren op events. Hoe weet je zeker dat je het correcte start event hebt
+4. testen van fout afhandeling (buiten timeouts komen....)
+5. toevoegen van commentaar
+6. verwijzing naar ota_relations aanpassen - DONE
+7. in de precheck stap wordt onnodige info naar console weggeschreven - DONE
+8. in logging verwijzen naar HTML rapportage locatie - DONE
